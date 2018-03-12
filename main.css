@@ -1,0 +1,12 @@
+h1, h2 {
+  text-align: center;
+}
+
+body {
+  background-color: rgba(70, 190, 200, 0.8);
+}
+
+div {
+  justify-content: center;
+  align-items: center;
+}
